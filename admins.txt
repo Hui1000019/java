@@ -1,0 +1,11 @@
+UID: A0001
+Username: admin1
+Password: 12345
+
+UID: A0002
+Username: admin2
+Password: 54321
+
+UID: A0003
+Username: admin3
+Password: 33333

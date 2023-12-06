@@ -1,0 +1,21 @@
+F001
+ice cream
+8
+strawberry
+Snack
+V01
+
+F002
+rice
+8
+curry
+Food
+V02
+
+F003
+juice
+8
+strawberry
+Beverage
+V03
+

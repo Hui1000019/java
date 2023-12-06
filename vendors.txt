@@ -1,0 +1,12 @@
+UID: V0001
+Username: vendor1
+Password: v1
+
+UID: V0002
+Username: vendor2
+Password: v2
+
+UID: V0003
+Username: vendor3
+Password: v3
+

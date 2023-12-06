@@ -1,0 +1,15 @@
+UID: c01
+Username: john_doe
+Password: 123
+Balance: 150.7
+
+UID: C0002
+Username: customer2
+Password: c2
+Balance: 130.0
+
+UID: C0003
+Username: customer3
+Password: c3
+Balance: 90.0
+
